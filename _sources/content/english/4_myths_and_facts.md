@@ -8,7 +8,7 @@ Although definitions about sexual assaults are provided, certain (mis)assumption
 
 A: NO, everyone can be victim of sexual assault. Offenders do not choose people that belong to a particular gender or age. Offenders often choose people whom they perceive as vulnerable or over whom they believe can assert power, regardless of size, strength, sexual orientation, or appearance. Victims can range from young children to elderly adults.  
 
-![img](../media/myths_and_facts/victims_by_gender.png)
+![img](../../media/myths_and_facts/victims_by_gender.png)
 
 ### Are only gay men victims of sexual assault?  
 

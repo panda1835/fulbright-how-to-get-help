@@ -6,4 +6,4 @@ What should you do when you sense the occurrence of misconduct?
 - If it is a small but recurring case, you should ask for consultation from the Wellness Center or the Student Council, and seek help from the Safer Community to devise a safety plan for you. 
 - If you think that this is a serious case, you could choose to report directly to the Student Conduct Board. 
 
-![img](../media/procedure/procedure.jpg)
+![img](../../media/procedure/procedure.jpg)
