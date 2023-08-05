@@ -7,7 +7,7 @@ The Student Conduct Board consists of faculty, staff, and student representative
 Contact: scb@fulbright.edu.vn. 
 
 
-## Safer Community: 
+## Safer Community
 
 Safer Community accommodates students based on personal needs and aims to help students make informed decisions in response to disclosures of violating misconducts. We make referrals to counselling at Wellness Center and other relevant resources, develops safety plan for students and serve as your support person – formal investigation notwithstanding. If you are feeling unsafe or unsure what to do, we can help. We will listen to you and explore options with you. Your wellbeing is our priority, and you decide what you think is most appropriate. Conversations are confidential unless you give your consent to involve others. 
 
