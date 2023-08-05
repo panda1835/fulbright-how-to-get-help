@@ -1,3 +1,0 @@
-# Quizzes
-
-... To be developed
