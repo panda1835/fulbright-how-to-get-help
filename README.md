@@ -1,4 +1,4 @@
-# Digital Handbook: How to Get Help When You Encounter a Sexual Misconduct
+# Digital Handbook: How to Get Help!
 
 The digital handbook is available [HERE](panda1835.github.io/fulbright-how-to-get-help/) 
 
