@@ -6,8 +6,9 @@ author: Safer Community of Fulbright Wellness Center and Fulbright Student Counc
 logo: logo.png
 copyright: "2023"
 only_build_toc_files: true
+exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
 execute:
-  execute_notebooks: "off"
+  execute_notebooks: "auto"
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -26,12 +27,13 @@ bibtex_bibfiles:
 # Information about where the book exists on the web
 repository:
   url: https://github.com/panda1835/fulbright-how-to-get-help  # Online location of your book
-  branch: master  # Which branch of the repository should be used when creating links (optional)
+  branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
   use_issues_button: true
   use_repository_button: true
-  comments:
-    hypothesis: true
+  favicon: "./favicon.ico"
+  # comments:
+  #   hypothesis: true
