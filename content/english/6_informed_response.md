@@ -2,6 +2,9 @@
 
 Since the sexual violation is always unacceptable regarding their consequence on every victim, none of us want it to happen. However, the victim could be everyone and they deserve help regardless who they are. This part will prepare knowledge for everyone who wants to give sexual violation victims the support that they deserve. 
 
+```{contents}
+```
+
 ## First aid
 - Be a respective listener (let them tell the story in their own words without trying to be a solver)  
   - The most important purpose of letting the victim tell the story in their own words and at their own pace is to show that they can speak out about what happened to them, that they can reach help.

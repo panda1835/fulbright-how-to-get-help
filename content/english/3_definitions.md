@@ -1,5 +1,8 @@
 # Definitions 
 
+```{contents}
+```
+
 ## Boundaries and Consent  
 
 **Boundaries**: Personal boundaries include the set of actions or reactions that is acceptable to that person. Different people may have different boundaries, either in personal sense or in communication. Therefore, it is crucial that people avoid assuming people’s boundaries, but rather communicate and understand each other's personal boundaries, through different forms of communication such as but not limited to verbal communication, written communication or body language.  
