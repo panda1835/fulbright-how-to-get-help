@@ -1,5 +1,8 @@
 # Frequently Asked Question  
 
+```{contents}
+```
+
 ## Why should we reach out at first place?  
 
 At Fulbright, we encourage seeking help whenever you think you need to. Not whether you think you should or you can - as long as you think you need to seek help. No concern is too big or too small. We hope that as an individual and a member of the Fulbright community, you prioritize the safety and wellbeing of yourself and your peers.  

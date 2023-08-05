@@ -1,6 +1,9 @@
-# Myths and Facts about sexual violation 
+# Myths and Facts about Sexual Violation 
 
 Although definitions about sexual assaults are provided, certain (mis)assumptions about sexual assault can easily be made. These assumptions are widely common, which can be referred to as myths. This section provides a closer lens to myths and facts about sexual violation for the purpose of helping readers to identify and be aware of their own assumptions by giving actual facts, statistics, and research on this matter. We aim that after reading, readers can self-reflect on their (mis)assumptions about sexual assault as well as develop a more thorough understanding to identify and act upon when witnessing or experiencing real-life situations.  
+
+```{contents}
+```
 
 ## Q: Who can be the victim of sexual assault?  
 

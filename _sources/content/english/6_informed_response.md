@@ -1,6 +1,9 @@
-# Informed response to disclosure of sexual violation
+# Informed Response to Disclosure of Sexual Violation
 
 Since the sexual violation is always unacceptable regarding their consequence on every victim, none of us want it to happen. However, the victim could be everyone and they deserve help regardless who they are. This part will prepare knowledge for everyone who wants to give sexual violation victims the support that they deserve. 
+
+```{contents}
+```
 
 ## First aid
 - Be a respective listener (let them tell the story in their own words without trying to be a solver)  
@@ -67,9 +70,9 @@ Since the sexual violation is always unacceptable regarding their consequence on
 - Restoring victim’s control of what happened next to them is the way of restoring choice and power. It is necessary to ask for the victim’s permission if you want to gift support on making decisions. After having the permission, you can start by asking things such as “What would you like to happen next?”. You can offer ideas and review options with them but influencing their decisions may not a good idea since those are your personal decisions (This includes whether or not they report what happened to police). If the survivor is still not ready for these next steps, it is totally fine, you can say something like “It is okay if you are not ready for the next steps, we can just talk”.
 
 ## Legal support
-### Support from Fulbright
+### Support from Fulbright University Vietnam
 - In case the victim want to have more peer advices, you can contact Fulbright Student Council. student.council@fulbright.edu.vn
 - In case the victim need professional mental support, wellness center will be the best sorce to recieve advises. wellness@fulbright.edu.vn
 - In case the victim is seeking for help to report the violence or advises to deal with the violence, Student Conduct Board scb@fulbright.edu.vn and Safer Community safer-community@fulbright.edu.vn are where you can receive help.
-### Out Fulbright  
-- You can find more information about these support in "Additional support resources"
+### Outisde of Fulbright University Vietnam  
+- You can find more information about these support in [Additional Support Resources](https://panda1835.github.io/fulbright-how-to-get-help/content/english/7_additional_support_resources.html)
