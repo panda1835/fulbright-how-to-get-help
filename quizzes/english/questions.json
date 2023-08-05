@@ -1,0 +1,151 @@
+[
+    {
+        "question": "A is crossing in the street and encounters B - a stranger to A. Upon seeing A, B whispered to A, rudely asking them to let B touch their body. What is this form of sexual violation?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Stalking",
+                "correct": false,
+                "feedback": "False."
+            },
+            {
+                "answer": "Sexual Exploitation",
+                "correct": false,
+                "feedback": "False."
+            },
+            {
+                "answer": "Sexual harassment",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+
+    {
+        "question": "Which of the following is an example of sexual exploitation?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "A stranger complimenting your appearance",
+                "correct": false,
+                "feedback": "False."
+            },
+            {
+                "answer": "Two consenting adults engaging in a sexual act",
+                "correct": false,
+                "feedback": "False."
+            },
+            {
+                "answer": "A friend offering their friend their support in doing the final assignments in exchange for sexual favors",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+
+    {
+        "question": "Which of the following is an example of sexual stalking?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Someone has never met sending you a single unwanted message",
+                "correct": false,
+                "feedback": "False."
+            },
+            {
+                "answer": "A person you don't know well continuously follows you every day on your way home ",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "A friend asking you out once and accepting your answer when you say no",
+                "correct": false,
+                "feedback": "False."
+            }
+        ]
+    },
+
+    {
+        "question": "Which of the following are myths about sexual assault perpetrators? Pick all that apply.",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "They are always mentally ill",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "They are always strangers to the victim",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "They are always males",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+
+    {
+        "question": "A agrees to engage in a sexual activity with B. However, after finishing the activity, B then quickly continue with another sexual activity, to which A refuses to engage in. B then expressed that: “But you have given your consent in the first place?” Who is wrong in this case?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "B is wrong",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "A is wrong",
+                "correct": false,
+                "feedback": "False."
+            },
+            {
+                "answer": "Both are wrong",
+                "correct": false,
+                "feedback": "False."
+            }
+        ]
+    },
+
+    {
+        "question": "Pick out all the misconceptions about sexual misconduct.",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "Only those who dress provocatively the victim of sexual assault",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Sexual misconduct could only happen in hidden space",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "A clear communication before, during and after sexual engagement between two people are necessary",
+                "correct": false,
+                "feedback": "False."
+            }
+        ]
+    },
+
+    {
+        "question": "C has the intention to engage in a sexual activity with D. After asking D and hear no response for them, C assumed that it is an agreement. So C starts the activity while D also shows no response of resistance. Is that considered a sexual assault made by C to D given that D is silent? Why is that?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Yes",
+                "correct": true,
+                "feedback": "Yes it is, because silence does not mean consent. The victim may express silence because they may be too scared or too hesitant to express their true feelings, which is the dissaproval of the act."
+            },
+            {
+                "answer": "No",
+                "correct": false,
+                "feedback": "False."
+            }
+        ]
+    }
+    
+]
