@@ -47,8 +47,6 @@ What we have presented above could be considered as the most basic information, 
   - Address: 1039A Hồng Bàng, phường 12, quận 6, TP.HCM. 
   - Tel: (028) 3854 5285
 
----
-
 ## Mental Support
 ### Governmental organizations
 #### National Department
