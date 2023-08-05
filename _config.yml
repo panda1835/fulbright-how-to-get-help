@@ -7,8 +7,6 @@ logo: logo.png
 copyright: "2023"
 only_build_toc_files: true
 exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
-execute:
-  execute_notebooks: "auto"
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -35,5 +33,14 @@ html:
   use_issues_button: true
   use_repository_button: true
   favicon: "./favicon.ico"
+  use_edit_page_button: false  
+  use_repository_button: false
+  use_issues_button: false
+  baseurl: "https://panda1835.github.io/fulbright-how-to-get-help/intro.html"
+  extra_navbar: ""
   # comments:
   #   hypothesis: true
+
+sphinx:
+  html_context:
+    default_mode: light
