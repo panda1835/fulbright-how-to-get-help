@@ -2,6 +2,8 @@
 
 The digital handbook is available [HERE](panda1835.github.io/fulbright-how-to-get-help/) 
 
+*The Vietnamese version of the handbook is in development. We will update it as soon as possible.*
+
 ## Introduction
 This digital handbook aims to provide essential information and resources to support individuals who have experienced or witnessed sexual misconduct at Fulbright University Vietnam. We recognize the importance of creating a safe and respectful campus environment for all members of our community.
 
@@ -18,8 +20,6 @@ This digital handbook aims to provide essential information and resources to sup
   
 ## How to Use the Handbook
 The digital handbook is designed to be user-friendly and accessible to all members of the Fulbright University Vietnam community. To navigate the handbook, simply click on the section of interest to access the relevant information.
-
-The Vietnamese version of the handbook is in development. We will update it as soon as possible.
 
 ## Feedback and Updates
 We value your feedback! If you have any suggestions for improving the handbook or if you come across any outdated information, please let us know. As we continue to prioritize the safety and well-being of our community, we will regularly update the handbook with new resources and support services.
