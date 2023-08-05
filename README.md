@@ -6,14 +6,14 @@ The digital handbook is available [HERE](panda1835.github.io/fulbright-how-to-ge
 This digital handbook aims to provide essential information and resources to support individuals who have experienced or witnessed sexual misconduct at Fulbright University Vietnam. We recognize the importance of creating a safe and respectful campus environment for all members of our community.
 
 ## Contents
-- Available Resources: This section provides a comprehensive list of support services and resources available at Fulbright University Vietnam for individuals affected by sexual misconduct.
-- Frequently Asked Questions: Answers to commonly asked questions about sexual misconduct, reporting procedures, and available support at Fulbright University Vietnam.
-- Definitions: Clear and concise explanations of key terms related to sexual violation, ensuring a better understanding of the subject matter.
-- Myths and Facts about Sexual Violation: Debunks common misconceptions and provides accurate information about sexual misconduct to promote awareness and education.
-- Procedure: Step-by-step guidance on how to report incidents of sexual violation and navigate the reporting process.
-- Informed Response to Disclosure of Sexual Violation: Tips and guidelines for providing supportive and empathetic responses to survivors who disclose incidents of sexual violation.
-- Additional Support Resources: Supplementary resources beyond the university's services, including external organizations and helplines for further assistance.
-- Quizzes: Interactive quizzes designed to test knowledge and reinforce key concepts surrounding sexual misconduct and getting help.
+- **Available Resources**: This section provides a comprehensive list of support services and resources available at Fulbright University Vietnam for individuals affected by sexual misconduct.
+- **Frequently Asked Questions**: Answers to commonly asked questions about sexual misconduct, reporting procedures, and available support at Fulbright University Vietnam.
+- **Definitions**: Clear and concise explanations of key terms related to sexual violation, ensuring a better understanding of the subject matter.
+- **Myths and Facts about Sexual Violation**: Debunks common misconceptions and provides accurate information about sexual misconduct to promote awareness and education.
+- **Procedure**: Step-by-step guidance on how to report incidents of sexual violation and navigate the reporting process.
+- **Informed Response to Disclosure of Sexual Violation**: Tips and guidelines for providing supportive and empathetic responses to people who disclose incidents of sexual violation.
+- **Additional Support Resources**: Supplementary resources beyond the university's services, including external organizations and helplines for further assistance.
+- **Quizzes**: Interactive quizzes designed to test knowledge and reinforce key concepts surrounding sexual misconduct and getting help.
 
   
 ## How to Use the Handbook
