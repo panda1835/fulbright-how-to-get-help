@@ -6,17 +6,17 @@
             {
                 "answer": "Stalking",
                 "correct": false,
-                "feedback": "False."
+                "feedback": "The scenario described in the question does not involve continuous surveillance or unwanted pursuit, so it is not an example of stalking."
             },
             {
                 "answer": "Sexual Exploitation",
                 "correct": false,
-                "feedback": "False."
+                "feedback": "This scenario is not an example of sexual exploitation because sexual exploitation refers to situations where someone takes advantage of another person's vulnerability or uses their power to gain sexual favors, services, or acts."
             },
             {
                 "answer": "Sexual harassment",
                 "correct": true,
-                "feedback": "Correct."
+                "feedback": "This scenario involves unwanted sexual advances or requests that create a hostile environment for the person targeted."
             }
         ]
     },
@@ -33,12 +33,12 @@
             {
                 "answer": "Two consenting adults engaging in a sexual act",
                 "correct": false,
-                "feedback": "False."
+                "feedback": "This is not an example of sexual exploitation. Sexual exploitation refers to situations where one person takes advantage of another's vulnerability or uses their power to obtain sexual favors or engage in non-consensual sexual activities. In a consensual sexual encounter between two adults, there is no exploitation involved."
             },
             {
                 "answer": "A friend offering their friend their support in doing the final assignments in exchange for sexual favors",
                 "correct": true,
-                "feedback": "Correct."
+                "feedback": "This is an example of sexual exploitation, where one person uses their power or influence to gain sexual favors from another person."
             }
         ]
     },
@@ -50,17 +50,17 @@
             {
                 "answer": "Someone has never met sending you a single unwanted message",
                 "correct": false,
-                "feedback": "False."
+                "feedback": "This is not an example of sexual stalking. While receiving an unwanted message can be distressing, stalking involves persistent and unwanted behavior, not just a single message."
             },
             {
                 "answer": "A person you don't know well continuously follows you every day on your way home ",
                 "correct": true,
-                "feedback": "Correct."
+                "feedback": "This is an example of sexual stalking, where someone persistently and unwantedly pursues another person."
             },
             {
                 "answer": "A friend asking you out once and accepting your answer when you say no",
                 "correct": false,
-                "feedback": "False."
+                "feedback": "This is not an example of sexual stalking."
             }
         ]
     },
@@ -72,17 +72,17 @@
             {
                 "answer": "They are always mentally ill",
                 "correct": true,
-                "feedback": "Correct."
+                "feedback": "Perpetrators can be anyone regardless of gender, relationship, or mental health status."
             },
             {
                 "answer": "They are always strangers to the victim",
                 "correct": true,
-                "feedback": "Correct."
+                "feedback": "Perpetrators can be anyone regardless of gender, relationship, or mental health status."
             },
             {
                 "answer": "They are always males",
                 "correct": true,
-                "feedback": "Correct."
+                "feedback": "Perpetrators can be anyone regardless of gender, relationship, or mental health status."
             }
         ]
     },
@@ -94,12 +94,12 @@
             {
                 "answer": "B is wrong",
                 "correct": true,
-                "feedback": "Correct."
+                "feedback": "B is wrong because consent for one specific sexual activity does not imply consent for any other activity. Consent must be sought for each specific sexual activity, and assuming that consent carries over to other activities is incorrect."
             },
             {
                 "answer": "A is wrong",
                 "correct": false,
-                "feedback": "False."
+                "feedback": "A is not wrong for refusing to engage in the second activity."
             },
             {
                 "answer": "Both are wrong",
@@ -116,17 +116,17 @@
             {
                 "answer": "Only those who dress provocatively the victim of sexual assault",
                 "correct": true,
-                "feedback": "Correct."
+                "feedback": "These are misconceptions about sexual misconduct. Anyone can be a victim of sexual misconduct, regardless of how they dress, and it can happen in various settings, not just hidden spaces."
             },
             {
                 "answer": "Sexual misconduct could only happen in hidden space",
                 "correct": true,
-                "feedback": "Correct."
+                "feedback": "These are misconceptions about sexual misconduct. Anyone can be a victim of sexual misconduct, regardless of how they dress, and it can happen in various settings, not just hidden spaces."
             },
             {
                 "answer": "A clear communication before, during and after sexual engagement between two people are necessary",
                 "correct": false,
-                "feedback": "False."
+                "feedback": "This statement is not a misconception. Clear communication before, during, and after sexual engagement is crucial for ensuring that all parties involved provide informed and enthusiastic consent."
             }
         ]
     },
@@ -138,7 +138,7 @@
             {
                 "answer": "Yes",
                 "correct": true,
-                "feedback": "Yes it is, because silence does not mean consent. The victim may express silence because they may be too scared or too hesitant to express their true feelings, which is the dissaproval of the act."
+                "feedback": "Yes it is, because silence does not mean consent. Even if D did not explicitly resist, lack of a verbal response does not imply agreement. The person may express silence because they may be too scared or too hesitant to express their true feelings, which is the dissaproval of the act."
             },
             {
                 "answer": "No",
