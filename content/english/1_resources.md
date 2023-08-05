@@ -1,4 +1,4 @@
-# Available resources 
+# Available Resources 
 
 ## SCB: Student Conduct Board  
 

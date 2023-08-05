@@ -1,4 +1,4 @@
-# Additional support resources
+# Additional Support Resources
 
 What we have presented above could be considered as the most basic information, which could help you to understand profoundly how the Fulbright Community responds to threatening behaviors existing around a certain community. However, in case further additional support resources are required, this section will provide necessary materials, where you could seek for external resources for physical and mental support in the case of sexual violation in Vietnam.
 

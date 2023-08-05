@@ -1,4 +1,4 @@
-# Informed response to disclosure of sexual violation
+# Informed Response to Disclosure of Sexual Violation
 
 Since the sexual violation is always unacceptable regarding their consequence on every victim, none of us want it to happen. However, the victim could be everyone and they deserve help regardless who they are. This part will prepare knowledge for everyone who wants to give sexual violation victims the support that they deserve. 
 
