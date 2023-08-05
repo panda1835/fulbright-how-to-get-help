@@ -30,6 +30,6 @@ Please note that the materials contained in this Guide are provided for informat
 To view the Student Code of Conduct, click [HERE](https://fulbright.edu.vn/articles/Code_of_Conduct/Student_Code_of_Conduct_08072020_Excom_Endorsed.pdf)
 
 ## Contact Information
-For any questions or concerns related to the handbook, or to report an incident of sexual misconduct, please refer to the contact information provided in [this sections](https://panda1835.github.io/fulbright-how-to-get-help/content/english/1_resources.html).
+For any questions or concerns related to the handbook, or to report an incident of sexual misconduct, please refer to the contact information provided in [THIS SECTION](https://panda1835.github.io/fulbright-how-to-get-help/content/english/1_resources.html).
 
 Let us work together to foster a safe and respectful campus environment at Fulbright University Vietnam 🤗
