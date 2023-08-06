@@ -1,6 +1,6 @@
 # Available Resources 
 
-## SCB: Student Conduct Board  
+## Student Conduct Board (SCB)
 
 The Student Conduct Board consists of faculty, staff, and student representatives appointed to investigate, hold hearings, and give decisions on misconduct cases in general. The Student Conduct Board receives reports on the misconducts of students from Fulbright University Vietnam. 
 
@@ -13,7 +13,7 @@ Safer Community accommodates students based on personal needs and aims to help s
 
 Contact: safer-community@fulbright.edu.vn  
 
-## FSC: Fulbright Student Council  
+## Fulbright Student Council (FSC) 
 
 The Fulbright Student Council represents the students’ voices and rights to listen and give you advice on your inconveniences. After receiving consultation, you can choose whether to report your case or not.  
 
