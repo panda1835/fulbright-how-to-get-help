@@ -1,4 +1,4 @@
-# Frequently Asked Question  
+# Frequently Asked Questions
 
 ```{contents}
 ```

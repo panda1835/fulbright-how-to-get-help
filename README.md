@@ -2,10 +2,12 @@
 
 The digital handbook is available [HERE](panda1835.github.io/fulbright-how-to-get-help/) 
 
-*The Vietnamese version of the handbook is in development. We will update it as soon as possible.*
+> *The Vietnamese version of the handbook is in development. We will update it as soon as possible.*
 
 ## Introduction
 This digital handbook aims to provide essential information and resources to support individuals who have experienced or witnessed sexual misconduct at Fulbright University Vietnam. We recognize the importance of creating a safe and respectful campus environment for all members of our community.
+
+This project is my collaborative effort with the **Fulbright Student Council** and the **Safer Community of Fulbright Wellness Center**.
 
 ## Contents
 - **Available Resources**: This section provides a comprehensive list of support services and resources available at Fulbright University Vietnam for individuals affected by sexual misconduct.
@@ -27,7 +29,7 @@ We value your feedback! If you have any suggestions for improving the handbook o
 ## Disclaimer
 Please note that the materials contained in this Guide are provided for information and general guidance only. These materials do not amend or replace the Code of Conduct or other relevant University policies. For further references, please refer to the policies on OneStop and contact support departments below for further guidance.
 
-To view the Student Code of Conduct, click [HERE](https://fulbright.edu.vn/articles/Code_of_Conduct/Student_Code_of_Conduct_08072020_Excom_Endorsed.pdf)
+To view the Student Code of Conduct of Fulbright University Vietnam, click [HERE](https://fulbright.edu.vn/articles/Code_of_Conduct/Student_Code_of_Conduct_08072020_Excom_Endorsed.pdf)
 
 ## Contact Information
 For any questions or concerns related to the handbook, or to report an incident of sexual misconduct, please refer to the contact information provided in [THIS SECTION](https://panda1835.github.io/fulbright-how-to-get-help/content/english/1_resources.html).
