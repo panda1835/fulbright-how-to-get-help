@@ -58,11 +58,11 @@ A: No, even if a person consented to engage in some sexual activity, it does not
 
 ## It is not sexual assault if… 
 
-### The victim does not put up a fight and resists?  
+### The victim does not put up a fight and resists.
 
 A: There are many reasons why a victim of sexual assault would not fight and resist. Reasons include fear of repercussions, fear of not being believed, lack of empathy and knowledge among the authorities and the public, and distrust in institutional processes.  
 
-### There was no penetration by a penis  
+### There was no penetration by a penis.
 
 A: According to Vietnam Criminal Code 2015, rape not only include the penetration by a penis, but also other sexual insertion of other body parts, such as fingers, toes, tongue, or sex toys into others’ mouth, vagina, anus to take advantage of a person in an incapacitated state. Refer to examples above for elaborations on different forms of sexual violations.  
 
@@ -70,16 +70,16 @@ A: According to Vietnam Criminal Code 2015, rape not only include the penetratio
 
 A: Erection and ejaculation are common physiological responses that may result from mere physical contact or even extreme stress. These responses do not imply that you wanted or enjoyed the assault.  
 
-### All sexual assault victims will report the crime immediately to the police?  
+### All sexual assault victims will report the crime immediately to the police.
 
 A: Many victims of sexual assaults choose to stay silenced, rather than report the assault to the police. In fact, reporting a sexual assault incident to the police is the exception, not the norm. 
 
-### Most people dramatize their situations or lie about being sexually assaulted. It’s not really a big problem?  
+### Most people dramatize their situations or lie about being sexually assaulted. It’s not really a big problem.
 
 A: A number of unreported cases is undefined, estimating many more sexual assault cases remain unknown. 
 
 The prevalence of false reporting for sexual assault crimes is low - between 2% and 10%.  
 
-### A rape survivor will be battered, bruised, and hysterical?  
+### A rape survivor will be battered, bruised, and hysterical.
 
 A: Many rape survivors are not visibly injured. People react to crises in a spectrum of responses, which can include calm, hysteria, withdrawal, anger, apathy, denial, and shock. 

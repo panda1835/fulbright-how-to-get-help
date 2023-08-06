@@ -74,5 +74,5 @@ Since the sexual violation is always unacceptable regarding their consequence on
 - In case the victim want to have more peer advices, you can contact Fulbright Student Council. student.council@fulbright.edu.vn
 - In case the victim need professional mental support, wellness center will be the best sorce to recieve advises. wellness@fulbright.edu.vn
 - In case the victim is seeking for help to report the violence or advises to deal with the violence, Student Conduct Board scb@fulbright.edu.vn and Safer Community safer-community@fulbright.edu.vn are where you can receive help.
-### Outisde of Fulbright University Vietnam  
+### Outside of Fulbright University Vietnam  
 - You can find more information about these support in [Additional Support Resources](https://panda1835.github.io/fulbright-how-to-get-help/content/english/7_additional_support_resources.html)
